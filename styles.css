@@ -9,7 +9,7 @@
 body{
     font-family: 'ZCOOL KuaiLe', cursive;
     font-size: 24px;
-    background-color: var(--minion-yellow);
+    color: var(--minion-yellow);
 }
 
 .button{
